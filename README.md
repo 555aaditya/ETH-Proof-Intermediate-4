@@ -51,4 +51,4 @@ You will have to confirm your transaction on your metamask pop-up.
 
 ## Loom Video Link
 
-[<img src="https://static.vecteezy.com/system/resources/previews/013/822/358/original/modern-neon-glowing-buttons-minimal-neon-button-for-web-design-app-game-interface-png.png" width="50%">]([https://www.youtube.com/watch?v=Hc79sDi3f0U](https://www.loom.com/share/37d1fcfbdd9f4dee93b3f7c483d0410b?sid=ee16f919-4503-4ac7-96e8-61a1b4fa5ee4)https://www.loom.com/share/37d1fcfbdd9f4dee93b3f7c483d0410b?sid=ee16f919-4503-4ac7-96e8-61a1b4fa5ee4 "Now in Android: 55")
+[![Loom](https://static.vecteezy.com/system/resources/previews/011/155/464/original/play-button-icon-design-simple-illustration-of-music-application-and-multimedia-navigation-on-smartphone-device-png.png)](https://www.loom.com/share/37d1fcfbdd9f4dee93b3f7c483d0410b?sid=ee16f919-4503-4ac7-96e8-61a1b4fa5ee4 "Loom")
