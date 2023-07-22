@@ -48,3 +48,7 @@ It will open the metamask dialogue box upon starting and you can connect your wa
 You will be able to see your account address on the top and the current balance.
 You can interact using the `deposit` and `withdraw` buttons which will deposit and withdraw the given sum of tokens.
 You will have to confirm your transaction on your metamask pop-up.
+
+## Loom Video Link
+
+[<img src="https://static.vecteezy.com/system/resources/previews/013/822/358/original/modern-neon-glowing-buttons-minimal-neon-button-for-web-design-app-game-interface-png.png" width="50%">]([https://www.youtube.com/watch?v=Hc79sDi3f0U](https://www.loom.com/share/37d1fcfbdd9f4dee93b3f7c483d0410b?sid=ee16f919-4503-4ac7-96e8-61a1b4fa5ee4)https://www.loom.com/share/37d1fcfbdd9f4dee93b3f7c483d0410b?sid=ee16f919-4503-4ac7-96e8-61a1b4fa5ee4 "Now in Android: 55")
